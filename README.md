@@ -1,4 +1,4 @@
-# assignment_3
+# assignment-3
 
 ### Installation
 
@@ -15,4 +15,4 @@ limks: https://pyjwt.readthedocs.io/en/stable/)
 ```python
 /src/assignment_3.py
 ```
-### Examples
+
